@@ -2,4 +2,4 @@
 repo for technical tests
 
 
-[test 01](01/Techical Test 01.ipynb)
+[test 01](01/01.ipynb)
